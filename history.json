@@ -1,0 +1,667 @@
+[
+  {
+    "date": "2023-05-04 22:28:57CEST",
+    "secretWord": "shoupeltin",
+    "number": 1
+  },
+  {
+    "date": "2023-05-04 22:29:07CEST",
+    "secretWord": "penteteric",
+    "number": 2
+  },
+  {
+    "date": "2023-05-05 21:18:44CEST",
+    "secretWord": "carvership",
+    "number": 3
+  },
+  {
+    "date": "2023-05-05 21:18:54CEST",
+    "secretWord": "minionship",
+    "number": 4
+  },
+  {
+    "date": "2023-05-05 21:19:04CEST",
+    "secretWord": "scurrility",
+    "number": 5
+  },
+  {
+    "date": "2023-05-05 21:19:14CEST",
+    "secretWord": "shetlandic",
+    "number": 6
+  },
+  {
+    "date": "2023-05-05 21:19:24CEST",
+    "secretWord": "euphemizer",
+    "number": 7
+  },
+  {
+    "date": "2023-05-05 21:19:34CEST",
+    "secretWord": "zorillinae",
+    "number": 8
+  },
+  {
+    "date": "2023-05-05 21:19:44CEST",
+    "secretWord": "snappingly",
+    "number": 9
+  },
+  {
+    "date": "2023-05-05 21:19:56CEST",
+    "secretWord": "pantechnic",
+    "number": 10
+  },
+  {
+    "date": "2023-05-05 21:20:06CEST",
+    "secretWord": "superlucky",
+    "number": 11
+  },
+  {
+    "date": "2023-05-05 21:20:16CEST",
+    "secretWord": "pentapolis",
+    "number": 12
+  },
+  {
+    "date": "2023-05-05 21:20:26CEST",
+    "secretWord": "endoplasma",
+    "number": 13
+  },
+  {
+    "date": "2023-05-05 21:20:36CEST",
+    "secretWord": "pistollike",
+    "number": 14
+  },
+  {
+    "date": "2023-05-05 21:20:46CEST",
+    "secretWord": "hydurilate",
+    "number": 15
+  },
+  {
+    "date": "2023-05-05 21:20:56CEST",
+    "secretWord": "unrequited",
+    "number": 16
+  },
+  {
+    "date": "2023-05-05 21:21:06CEST",
+    "secretWord": "ruminative",
+    "number": 17
+  },
+  {
+    "date": "2023-05-05 21:21:16CEST",
+    "secretWord": "coinfinite",
+    "number": 18
+  },
+  {
+    "date": "2023-05-05 21:21:26CEST",
+    "secretWord": "protecting",
+    "number": 19
+  },
+  {
+    "date": "2023-05-05 21:21:36CEST",
+    "secretWord": "monovalent",
+    "number": 20
+  },
+  {
+    "date": "2023-05-05 21:21:46CEST",
+    "secretWord": "rattlehead",
+    "number": 21
+  },
+  {
+    "date": "2023-05-05 21:21:56CEST",
+    "secretWord": "assuringly",
+    "number": 22
+  },
+  {
+    "date": "2023-05-05 21:22:06CEST",
+    "secretWord": "cestodaria",
+    "number": 23
+  },
+  {
+    "date": "2023-05-05 21:22:16CEST",
+    "secretWord": "litigation",
+    "number": 24
+  },
+  {
+    "date": "2023-05-05 21:22:26CEST",
+    "secretWord": "pneumology",
+    "number": 25
+  },
+  {
+    "date": "2023-05-05 21:22:36CEST",
+    "secretWord": "precedable",
+    "number": 26
+  },
+  {
+    "date": "2023-05-05 21:22:46CEST",
+    "secretWord": "vishnavite",
+    "number": 27
+  },
+  {
+    "date": "2023-05-05 21:22:56CEST",
+    "secretWord": "xanthomata",
+    "number": 28
+  },
+  {
+    "date": "2023-05-05 21:23:06CEST",
+    "secretWord": "tinkerbird",
+    "number": 29
+  },
+  {
+    "date": "2023-05-05 21:23:16CEST",
+    "secretWord": "atypically",
+    "number": 30
+  },
+  {
+    "date": "2023-05-05 21:23:26CEST",
+    "secretWord": "cuttlebone",
+    "number": 31
+  },
+  {
+    "date": "2023-05-05 21:23:36CEST",
+    "secretWord": "khagiarite",
+    "number": 32
+  },
+  {
+    "date": "2023-05-05 21:23:46CEST",
+    "secretWord": "unsaddling",
+    "number": 33
+  },
+  {
+    "date": "2023-05-05 21:23:56CEST",
+    "secretWord": "poriferous",
+    "number": 34
+  },
+  {
+    "date": "2023-05-05 21:24:06CEST",
+    "secretWord": "coerebidae",
+    "number": 35
+  },
+  {
+    "date": "2023-05-05 21:24:16CEST",
+    "secretWord": "continuity",
+    "number": 36
+  },
+  {
+    "date": "2023-05-05 21:24:26CEST",
+    "secretWord": "hemotrophe",
+    "number": 37
+  },
+  {
+    "date": "2023-05-05 21:24:36CEST",
+    "secretWord": "quadruplex",
+    "number": 38
+  },
+  {
+    "date": "2023-05-05 21:24:46CEST",
+    "secretWord": "scenically",
+    "number": 39
+  },
+  {
+    "date": "2023-05-05 21:24:56CEST",
+    "secretWord": "undertaker",
+    "number": 40
+  },
+  {
+    "date": "2023-05-05 21:25:06CEST",
+    "secretWord": "dovetailed",
+    "number": 41
+  },
+  {
+    "date": "2023-05-05 21:25:16CEST",
+    "secretWord": "triplumbic",
+    "number": 42
+  },
+  {
+    "date": "2023-05-05 21:25:26CEST",
+    "secretWord": "coacceptor",
+    "number": 43
+  },
+  {
+    "date": "2023-05-05 21:25:36CEST",
+    "secretWord": "pedionomus",
+    "number": 44
+  },
+  {
+    "date": "2023-05-05 21:25:46CEST",
+    "secretWord": "numismatic",
+    "number": 45
+  },
+  {
+    "date": "2023-05-05 21:25:56CEST",
+    "secretWord": "agmatology",
+    "number": 46
+  },
+  {
+    "date": "2023-05-05 21:26:06CEST",
+    "secretWord": "exornation",
+    "number": 47
+  },
+  {
+    "date": "2023-05-05 21:26:16CEST",
+    "secretWord": "unwordably",
+    "number": 48
+  },
+  {
+    "date": "2023-05-05 21:26:26CEST",
+    "secretWord": "cockamaroo",
+    "number": 49
+  },
+  {
+    "date": "2023-05-05 21:26:36CEST",
+    "secretWord": "remediable",
+    "number": 50
+  },
+  {
+    "date": "2023-05-05 21:26:46CEST",
+    "secretWord": "protective",
+    "number": 51
+  },
+  {
+    "date": "2023-05-05 21:26:56CEST",
+    "secretWord": "sharepenny",
+    "number": 52
+  },
+  {
+    "date": "2023-05-05 21:27:06CEST",
+    "secretWord": "unbailable",
+    "number": 53
+  },
+  {
+    "date": "2023-05-05 21:27:16CEST",
+    "secretWord": "unreceding",
+    "number": 54
+  },
+  {
+    "date": "2023-05-05 21:27:26CEST",
+    "secretWord": "intershock",
+    "number": 55
+  },
+  {
+    "date": "2023-05-05 21:27:36CEST",
+    "secretWord": "prehensive",
+    "number": 56
+  },
+  {
+    "date": "2023-05-05 21:27:46CEST",
+    "secretWord": "antibishop",
+    "number": 57
+  },
+  {
+    "date": "2023-05-05 21:27:56CEST",
+    "secretWord": "orthoclase",
+    "number": 58
+  },
+  {
+    "date": "2023-05-05 21:28:06CEST",
+    "secretWord": "relegation",
+    "number": 59
+  },
+  {
+    "date": "2023-05-05 21:28:16CEST",
+    "secretWord": "tachometer",
+    "number": 60
+  },
+  {
+    "date": "2023-05-05 21:28:26CEST",
+    "secretWord": "nonsubject",
+    "number": 61
+  },
+  {
+    "date": "2023-05-05 21:28:36CEST",
+    "secretWord": "hematocyst",
+    "number": 62
+  },
+  {
+    "date": "2023-05-05 21:28:46CEST",
+    "secretWord": "autopepsia",
+    "number": 63
+  },
+  {
+    "date": "2023-05-05 21:28:56CEST",
+    "secretWord": "rubblework",
+    "number": 64
+  },
+  {
+    "date": "2023-05-05 21:29:06CEST",
+    "secretWord": "unfeasably",
+    "number": 65
+  },
+  {
+    "date": "2023-05-05 21:29:16CEST",
+    "secretWord": "decahedron",
+    "number": 66
+  },
+  {
+    "date": "2023-05-05 21:29:26CEST",
+    "secretWord": "misquality",
+    "number": 67
+  },
+  {
+    "date": "2023-05-05 21:29:36CEST",
+    "secretWord": "tubulipore",
+    "number": 68
+  },
+  {
+    "date": "2023-05-05 21:29:46CEST",
+    "secretWord": "underlying",
+    "number": 69
+  },
+  {
+    "date": "2023-05-05 21:29:56CEST",
+    "secretWord": "autochrome",
+    "number": 70
+  },
+  {
+    "date": "2023-05-05 21:30:06CEST",
+    "secretWord": "bugbearish",
+    "number": 71
+  },
+  {
+    "date": "2023-05-05 21:30:16CEST",
+    "secretWord": "yaffingale",
+    "number": 72
+  },
+  {
+    "date": "2023-05-05 21:30:26CEST",
+    "secretWord": "understudy",
+    "number": 73
+  },
+  {
+    "date": "2023-05-05 21:30:36CEST",
+    "secretWord": "metatoluic",
+    "number": 74
+  },
+  {
+    "date": "2023-05-05 21:30:46CEST",
+    "secretWord": "university",
+    "number": 75
+  },
+  {
+    "date": "2023-05-05 21:30:56CEST",
+    "secretWord": "metatheses",
+    "number": 76
+  },
+  {
+    "date": "2023-05-05 21:31:06CEST",
+    "secretWord": "handleable",
+    "number": 77
+  },
+  {
+    "date": "2023-05-05 21:31:16CEST",
+    "secretWord": "exemptible",
+    "number": 78
+  },
+  {
+    "date": "2023-05-05 21:31:26CEST",
+    "secretWord": "underwatch",
+    "number": 79
+  },
+  {
+    "date": "2023-05-05 21:31:36CEST",
+    "secretWord": "incomplete",
+    "number": 80
+  },
+  {
+    "date": "2023-05-05 21:31:46CEST",
+    "secretWord": "polyplegia",
+    "number": 81
+  },
+  {
+    "date": "2023-05-05 21:31:56CEST",
+    "secretWord": "spermoduct",
+    "number": 82
+  },
+  {
+    "date": "2023-05-05 21:32:06CEST",
+    "secretWord": "somniloquy",
+    "number": 83
+  },
+  {
+    "date": "2023-05-05 21:32:16CEST",
+    "secretWord": "ptyalolith",
+    "number": 84
+  },
+  {
+    "date": "2023-05-05 21:32:26CEST",
+    "secretWord": "zoophilous",
+    "number": 85
+  },
+  {
+    "date": "2023-05-05 21:32:36CEST",
+    "secretWord": "woodworker",
+    "number": 86
+  },
+  {
+    "date": "2023-05-05 21:32:46CEST",
+    "secretWord": "cavalryman",
+    "number": 87
+  },
+  {
+    "date": "2023-05-07 12:54:00CEST",
+    "secretWord": "electivism",
+    "number": 88
+  },
+  {
+    "date": "2023-05-07 12:54:10CEST",
+    "secretWord": "subquality",
+    "number": 89
+  },
+  {
+    "date": "2023-05-07 12:54:20CEST",
+    "secretWord": "disculpate",
+    "number": 90
+  },
+  {
+    "date": "2023-05-07 12:54:30CEST",
+    "secretWord": "paradoxism",
+    "number": 91
+  },
+  {
+    "date": "2023-05-07 12:54:40CEST",
+    "secretWord": "olympieion",
+    "number": 92
+  },
+  {
+    "date": "2023-05-07 12:54:50CEST",
+    "secretWord": "bicolorous",
+    "number": 93
+  },
+  {
+    "date": "2023-05-07 12:55:00CEST",
+    "secretWord": "unclutched",
+    "number": 94
+  },
+  {
+    "date": "2023-05-07 12:55:10CEST",
+    "secretWord": "athamantid",
+    "number": 95
+  },
+  {
+    "date": "2023-05-07 13:05:18CEST",
+    "secretWord": "ditertiary",
+    "number": 96
+  },
+  {
+    "date": "2023-05-07 13:05:28CEST",
+    "secretWord": "windermost",
+    "number": 97
+  },
+  {
+    "date": "2023-05-07 13:05:38CEST",
+    "secretWord": "asciferous",
+    "number": 98
+  },
+  {
+    "date": "2023-05-07 13:05:48CEST",
+    "secretWord": "ungloating",
+    "number": 99
+  },
+  {
+    "date": "2023-05-07 13:05:58CEST",
+    "secretWord": "abbeystede",
+    "number": 100
+  },
+  {
+    "date": "2023-05-07 13:06:08CEST",
+    "secretWord": "neurotoxic",
+    "number": 101
+  },
+  {
+    "date": "2023-05-07 13:06:18CEST",
+    "secretWord": "hydrolysis",
+    "number": 102
+  },
+  {
+    "date": "2023-05-07 13:06:28CEST",
+    "secretWord": "misconduct",
+    "number": 103
+  },
+  {
+    "date": "2023-05-07 13:06:38CEST",
+    "secretWord": "crescentic",
+    "number": 104
+  },
+  {
+    "date": "2023-05-07 13:21:16CEST",
+    "secretWord": "ungoatlike",
+    "number": 105
+  },
+  {
+    "date": "2023-05-07 13:21:26CEST",
+    "secretWord": "thelyblast",
+    "number": 106
+  },
+  {
+    "date": "2023-05-07 13:21:36CEST",
+    "secretWord": "salientian",
+    "number": 107
+  },
+  {
+    "date": "2023-05-07 13:21:46CEST",
+    "secretWord": "aviculture",
+    "number": 108
+  },
+  {
+    "date": "2023-05-07 13:21:56CEST",
+    "secretWord": "disilicate",
+    "number": 109
+  },
+  {
+    "date": "2023-05-07 16:32:24CEST",
+    "secretWord": "prosecrecy",
+    "number": 110
+  },
+  {
+    "date": "2023-05-07 16:32:34CEST",
+    "secretWord": "trichogyne",
+    "number": 111
+  },
+  {
+    "date": "2023-05-07 16:33:55CEST",
+    "secretWord": "carotidean",
+    "number": 112
+  },
+  {
+    "date": "2023-05-07 16:34:05CEST",
+    "secretWord": "pyrocitric",
+    "number": 113
+  },
+  {
+    "date": "2023-05-07 16:34:15CEST",
+    "secretWord": "subrostral",
+    "number": 114
+  },
+  {
+    "date": "2023-05-07 16:34:25CEST",
+    "secretWord": "receptacle",
+    "number": 115
+  },
+  {
+    "date": "2023-05-07 16:34:35CEST",
+    "secretWord": "mesogyrate",
+    "number": 116
+  },
+  {
+    "date": "2023-05-07 16:34:45CEST",
+    "secretWord": "palmitinic",
+    "number": 117
+  },
+  {
+    "date": "2023-05-07 16:34:55CEST",
+    "secretWord": "chuckwalla",
+    "number": 118
+  },
+  {
+    "date": "2023-05-07 16:35:07CEST",
+    "secretWord": "sketchable",
+    "number": 119
+  },
+  {
+    "date": "2023-05-07 16:35:17CEST",
+    "secretWord": "promethium",
+    "number": 120
+  },
+  {
+    "date": "2023-05-07 16:36:00CEST",
+    "secretWord": "moonshiner",
+    "number": 121
+  },
+  {
+    "date": "2023-05-07 16:36:10CEST",
+    "secretWord": "citrometer",
+    "number": 122
+  },
+  {
+    "date": "2023-05-07 16:36:20CEST",
+    "secretWord": "trepidness",
+    "number": 123
+  },
+  {
+    "date": "2023-05-07 16:36:30CEST",
+    "secretWord": "apocalypse",
+    "number": 124
+  },
+  {
+    "date": "2023-05-07 16:36:40CEST",
+    "secretWord": "cellulosic",
+    "number": 125
+  },
+  {
+    "date": "2023-05-07 16:36:50CEST",
+    "secretWord": "inflective",
+    "number": 126
+  },
+  {
+    "date": "2023-05-07 16:37:00CEST",
+    "secretWord": "mariticide",
+    "number": 127
+  },
+  {
+    "date": "2023-05-07 16:37:10CEST",
+    "secretWord": "microcrith",
+    "number": 128
+  },
+  {
+    "date": "2023-05-07 16:37:20CEST",
+    "secretWord": "evangelian",
+    "number": 129
+  },
+  {
+    "date": "2023-05-07 18:13:18CEST",
+    "secretWord": "pyramidion",
+    "number": 130
+  },
+  {
+    "date": "2023-05-07 18:13:28CEST",
+    "secretWord": "thermonous",
+    "number": 131
+  },
+  {
+    "date": "2023-05-07 18:13:38CEST",
+    "secretWord": "intemerate",
+    "number": 132
+  },
+  {
+    "date": "2023-05-08 10:28:15CEST",
+    "secretWord": "stockstone",
+    "number": 133
+  }
+]

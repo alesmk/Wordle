@@ -1,0 +1,6 @@
+{
+  "port": 1313,
+  "multicastPort": 1234,
+  "multicastAddress": "224.5.11.1",
+  "serverAddress": "localhost"
+}

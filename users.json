@@ -1,0 +1,83 @@
+[
+  {
+    "hashedPassword": -917692398,
+    "lastGameDate": "2023-05-08 10:28:40CEST",
+    "active": false,
+    "username": "alessia",
+    "stats": {
+      "playedGamesNum": 12,
+      "wins": 11,
+      "winsPerc": 91.66667,
+      "lastStreak": 11,
+      "maxStreak": 11,
+      "guessDistribution": [
+        4,
+        3,
+        0,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    }
+  },
+  {
+    "hashedPassword": 3105,
+    "lastGameDate": "2023-05-08 10:42:17CEST",
+    "active": false,
+    "username": "ab",
+    "stats": {
+      "playedGamesNum": 18,
+      "wins": 15,
+      "winsPerc": 83.33333,
+      "lastStreak": 4,
+      "maxStreak": 5,
+      "guessDistribution": [
+        9,
+        0,
+        0,
+        1,
+        2,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2
+      ]
+    }
+  },
+  {
+    "hashedPassword": 3599307,
+    "lastGameDate": "2023-05-08 10:38:05CEST",
+    "active": false,
+    "username": "user",
+    "stats": {
+      "playedGamesNum": 6,
+      "wins": 6,
+      "winsPerc": 100.0,
+      "lastStreak": 6,
+      "maxStreak": 6,
+      "guessDistribution": [
+        3,
+        3,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  }
+]

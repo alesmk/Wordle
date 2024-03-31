@@ -1,0 +1,15 @@
+{
+  "port": 1313,
+  "multicastPort": 1234,
+  "multicastAddress": "224.5.11.1",
+  "game": {
+    "lastUpdate": "2023-05-08 10:28:15CEST",
+    "secretWord": "stockstone",
+    "wordNumber": 133
+  },
+  "updateFrequency": 1,
+  "updateFrequencyUnit": "h",
+  "historyFile": "history.json",
+  "vocabularyFile": "words.txt",
+  "usersFile": "users.json"
+}
